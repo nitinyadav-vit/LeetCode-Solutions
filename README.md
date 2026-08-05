@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
