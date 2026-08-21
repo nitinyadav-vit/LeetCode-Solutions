@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
