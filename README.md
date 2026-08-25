@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
