@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
