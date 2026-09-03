@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
