@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [3870-count-commas-in-range](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
