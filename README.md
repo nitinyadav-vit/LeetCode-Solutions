@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
