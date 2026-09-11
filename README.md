@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
