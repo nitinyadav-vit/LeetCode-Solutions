@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/ny862571-hash/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3870-count-commas-in-range](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
