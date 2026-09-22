@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
