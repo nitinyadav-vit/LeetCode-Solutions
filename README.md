@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
