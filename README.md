@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0940-distinct-subsequences-ii](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/nitinyadav-vit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
