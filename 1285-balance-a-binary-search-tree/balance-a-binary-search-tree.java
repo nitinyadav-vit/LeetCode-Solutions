@@ -40,6 +40,7 @@ class Solution {
         root.left=BSTMaker(list,start,mid-1);
         root.right=BSTMaker(list,mid+1,end);
         return root;
+        
 
     }
 }
